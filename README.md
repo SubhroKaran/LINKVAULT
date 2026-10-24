@@ -1,4 +1,4 @@
-# 🔗 LinkVault – URL Shortener & Analytics
+#  LinkVault – URL Shortener & Analytics
 
 LinkVault is a full-stack web application that converts long URLs into short, shareable links. Built using the MERN stack, it allows users to shorten URLs, redirect visitors to original destinations, generate QR codes, and track link clicks.
 
